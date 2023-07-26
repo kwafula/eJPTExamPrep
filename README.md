@@ -13,4 +13,8 @@
   
 ### Active
 1. Dig
+2. DNSEnum
+3. Fierce
+4. Unicornscan
+5. Netdiscover
 
