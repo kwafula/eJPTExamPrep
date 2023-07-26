@@ -17,4 +17,11 @@
 3. Fierce
 4. Unicornscan
 5. Netdiscover
+6. Nmap
+7. Nmap Automator
+8. Zenmap
+9. Arp-scan
+10. Masscan
+11. Autorecon
+12. Nbtscan
 
