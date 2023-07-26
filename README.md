@@ -25,4 +25,5 @@
 11. Autorecon
 12. Nbtscan
 13. SMBClient
+14. SMBmap
 
