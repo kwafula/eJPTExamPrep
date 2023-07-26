@@ -1,6 +1,6 @@
-### eLearnSecurity Junior Penetration Tester Exam Prep
+# eLearnSecurity Junior Penetration Tester Exam Prep
 ## Information Gathering
-# Passive
+### Passive
 1. Whois
 2. DNSRecon
 3. Sublist3r
@@ -11,9 +11,6 @@
 9. WAFWoof
 10. Have I Been Pawned
   
-# Active
+### Active
 1. Dig
 
-
-## Repo Overview
-The repo is structured by sprint cycle folders, to review a tool for a given sprint cycle, browse the cycle folder above i.e. Cycle 1 - WebAttackVectorEnumerator. Below is an overview of each tool in this repo.
