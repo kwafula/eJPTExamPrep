@@ -27,5 +27,6 @@
 13. SMBClient
 14. SMBmap
 15. Rpcclient
-16. Metasploit/Auxillary/SMB/SMBVersion
+16. Enum4linux
+17. Metasploit/Auxillary/SMB/SMBVersion
 
