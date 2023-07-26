@@ -26,4 +26,6 @@
 12. Nbtscan
 13. SMBClient
 14. SMBmap
+15. Rpcclient
+16. Metasploit/Auxillary/SMB/SMBVersion
 
