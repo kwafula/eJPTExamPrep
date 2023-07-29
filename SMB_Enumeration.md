@@ -1,4 +1,5 @@
-## SMB Using NMap
+### SMB Using NMap
+## Reference: https://nmap.org/nsedoc/scripts/
 # Service Enumeration
 nmap -Pn -p 1-10000 -sV 10.10.10.10
 <img width="1028" alt="image" src="https://github.com/kwafula/eJPTExamPrep/assets/95890992/41240871-a970-4147-b82b-0177f9ce0fac">
