@@ -11,3 +11,7 @@ References:
 9. Nmap Script: smb-enum-users (https://nmap.org/nsedoc/scripts/smb-enum-users.html)
 10. Metasploit Module: SMB 2.0 Protocol Detection (https://www.rapid7.com/db/modules/auxiliary/scanner/smb/smb2)
 11. Metasploit Module: SMB User Enumeration (https://www.rapid7.com/db/modules/auxiliary/scanner/smb/smb_enumusers)
+12. smbmap (https://tools.kali.org/information-gathering/smbmap)
+13. THC Hydra (https://tools.kali.org/password-attacks/hydra)
+14. Metasploit Module: SMB Login Check Scanner (https://www.rapid7.com/db/modules/auxiliary/scanner/smb/smb_login)
+15. Metasploit Module: SMB Session Pipe Auditor (https://www.rapid7.com/db/modules/auxiliary/scanner/smb/pipe_auditor)
