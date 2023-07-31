@@ -12,3 +12,5 @@
 11. Nmap Script: mysql-audit (https://nmap.org/nsedoc/scripts/mysql-audit.html)
 12. Nmap Script: mysql-query (https://nmap.org/nsedoc/scripts/mysql-query.html)
 13. Nmap Script: mysql-dump-hashes (https://nmap.org/nsedoc/scripts/mysql-dump-hashes.html)
+14. Metasploit Module: MySQL Login Utility (https://www.rapid7.com/db/modules/auxiliary/scanner/mysql/mysql_login)
+15. THC Hydra (https://tools.kali.org/password-attacks/hydra)
